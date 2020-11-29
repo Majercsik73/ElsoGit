@@ -1,0 +1,2 @@
+# ElsoGit
+Első próbálkozások
